@@ -38,7 +38,7 @@ function App() {
         <a href="https://facebook.github.io/create-react-app/">
           Create React App
         </a>{' '}
-        and contains three directories, <code>/public</code> for static assets,{' '}
+        ZZZ contains three directories, <code>/public</code> for static assets,{' '}
         <code>/src</code> for components and content, and <code>/api</code>{' '}
         which contains a serverless <a href="https://golang.org/">Go</a>{' '}
         function. See{' '}
